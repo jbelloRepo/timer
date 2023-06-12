@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="giffy.gif" alt="Timer Animation" width="200" height="200" />
+</p>
+
 # Timer App
 
 The Timer App is a command-line application that allows users to set multiple alarms and plays a system sound when each alarm duration is reached.
@@ -13,3 +17,4 @@ To use the Timer App, follow these steps:
 
    ```shell
    node timer.js [duration1] [duration2] [duration3] ...
+   ```
