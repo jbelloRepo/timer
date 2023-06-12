@@ -1,4 +1,4 @@
-// Note for M1 macs beep does not working in VSCode terminal. Use main terminal
+// Note for M1 macs beep does not work in VSCode terminal. Use main terminal
 
 const args = process.argv.slice(2);
 
